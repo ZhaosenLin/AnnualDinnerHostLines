@@ -14,7 +14,7 @@ D.Jingjing
 |CCM|terry.li@oracle.com|pheobe.zhou&sherry|小品|正式开场表演|
 |ATS |	ben.xu@oracle.com |yue.huang	|入场节目，穿戏服（类似）在观众身边一边唱一边进，不需要节目介绍|4|
 |新思| |Joy.liu|太极表演|4|
-|||小苹果|6|
+|||小苹果||6|
 
 ##台词
 我们的迎新会将在1分钟后开始；请把我们的手机调成震动或静音状态，按指定位置坐好；
