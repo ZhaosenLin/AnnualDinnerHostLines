@@ -1,17 +1,18 @@
 # 年会主持台词
 ##主持人
-A.victoria
+A.Victoria
 B.Johnson
 C.Roy
 D.Jingjing
 ##节目单
-| Team        | Manager           | Conrdinator  |Program    |
-| ------------- |:-------------:| -----:| -----:|
-| EID Integrator      | joe.sun@oracle.com | hao.zhao |歌 曲 串烧/喜气洋洋过羊年|
-| EID Studio      | alex.sheng@oracle.com      |   mongo.hu |小 品/ 租男友|
-| ODI | james.fu@oracle.com      |    darren.cui |小 提 琴/选定|
-|Amber Point	|arthur.ning@oracle.com | lin.yu	|歌 曲表 演/魔术先生|
-|ATS |	ben.xu@oracle.com |yue.huang	|入场节目，穿戏服（类似）在观众身边一边唱一边进，不需要节目介绍|
+| Team        | Manager           | Conrdinator  |Program    |Time span|
+| ------------- |:-------------:| -----:| -----:| -----:|
+| EID Integrator      | joe.sun@oracle.com | hao.zhao |歌 曲 串烧/喜气洋洋过羊年|8-10|
+| EID Studio      | alex.sheng@oracle.com      |   mongo.hu |小 品/ 租男友|15|
+| ODI | james.fu@oracle.com      |    darren.cui |小 提 琴/选定|3|
+|Amber Point	|arthur.ning@oracle.com | lin.yu	|歌 曲表 演/魔术先生|4|
+|CCM|terry.li@oracle.com|pheobe.zhou&sherry|小品|正式开场表演|
+|ATS |	ben.xu@oracle.com |yue.huang	|入场节目，穿戏服（类似）在观众身边一边唱一边进，不需要节目介绍|4|
 |新思| |Joy.liu|太极表演|
 |||小苹果|
 
@@ -44,26 +45,36 @@ D.Jingjing
 
 >某个大佬致辞
 
-*2.喜羊羊节目过场词*
->喜羊羊节目
+*2.喜气洋洋节目过场词*
+流行歌曲通常是通俗易懂，朗朗上口，曲调优美，怎样才能让流行歌曲唱出 
+高端大气上档次，低调奢华有内涵，奔放洋气有深度，简约时尚国际范，狂拽帅气吊炸天的歌曲串烧
+>喜气洋洋节目
 
+[A]这年头
 *3.租男友过场词*
 >租男友
 
-*4.小提琴过场词*
+感谢Studio Team 精彩的演出，欢乐过后让我们跟随着跃动的音符，来欣赏由AmberPoint Team 刘颖给我们带来的小提琴演奏
+
 >小提琴节目
 
 *1.魔术先生过场词*
+
 >魔术先生
 
 *2.太极表演过场词*
+[A]太极 继承了古老文明的优秀的特质，开、合、发：以柔克刚，以静制动，无形似有形。
+[B]对对对，这个我知道无极生太极,太极生两仪, 两仪生三才,三才生四象, 四象生五行,五行生六合, 六合生七星,七星生八卦, 八卦生九宫,一切归十方
+[A]好，说了这么多，到底什么意思啊
+[B]额，，，就是很牛B/厉害的意思
+[A]那还不赶快让主角上场，洗面请欣赏Joy.liu带来的太极表演
 >太极表演
+[A]这一系列动作，连贯而有神韵，真是让我们大开眼界，没想到Oracle有才华的人还真多呀!
 
-*3.小苹果过场词*
+
+[A]曾经，三个苹果改变了这个世界，第一个夏娃的苹果，它赋予了人类灵魂；第二个牛顿的苹果，它把人类的科技文明提升到了一个新的高度；第三个是乔布斯的苹果，它颠覆了现代人的生活方式。
+[B]如今，一个来自东方的“苹果”也在改变着世界，它唱响乐坛，它让无数人争相模仿，下面就一起让我们来欣赏今年的流行神曲《小苹果》
 >小苹果表演
-
-*4.四个主持人结束词*
->四个主持人结束表演
 
 ##结束词
 [A]快乐的时光总觉得短暂，新的一年已向我们走来。
