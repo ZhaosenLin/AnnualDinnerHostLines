@@ -7,13 +7,13 @@ D.Jingjing
 ##节目单
 | Team        | Manager           | Conrdinator  |Program    |Time span|
 | ------------- |:-------------:| -----:| -----:| -----:|
-| EID Integrator      | joe.sun@oracle.com | hao.zhao |歌 曲 串烧/喜气洋洋过羊年|8-10|
-| EID Studio      | alex.sheng@oracle.com      |   mongo.hu |小 品/ 租男友|15|
-| ODI | james.fu@oracle.com      |    darren.cui |小 提 琴/选定|3|
-|Amber Point	|arthur.ning@oracle.com | lin.yu	|歌 曲表 演/魔术先生|4|
-|CCM|terry.li@oracle.com|pheobe.zhou&sherry|小品|正式开场表演|
 |ATS |	ben.xu@oracle.com |yue.huang	|入场节目，穿戏服（类似）在观众身边一边唱一边进，不需要节目介绍|4|
+| ODI | james.fu@oracle.com      |    darren.cui |小 提 琴/选定|3|
+| EID Integrator      | joe.sun@oracle.com | hao.zhao |歌 曲 串烧/喜气洋洋过羊年|8-10|
+|CCM|terry.li@oracle.com|pheobe.zhou&sherry|小品|正式开场表演|
+|Amber Point	|arthur.ning@oracle.com | lin.yu	|歌 曲表 演/魔术先生|4|
 |新思| |Joy.liu|太极表演|4|
+| EID Studio      | alex.sheng@oracle.com      |   mongo.hu |小 品/ 租男友|15|
 |||小苹果||6|
 
 ##台词
@@ -42,14 +42,21 @@ D.Jingjing
 [ABCD] 我宣布2015年甲骨文新年联欢晚会，现在开始
 
 [A] 出席我们今天晚会的是我们甲骨文公司的全体同仁,同时非常荣幸,我们也邀请了领导和嘉宾:他们是:
+Frank Xionag, Cathy Yu, Helena Cai, Carrei Huang, Chupa Chu, Arthur Ning, Joe Sun, Thomas Yu
 
-某些大佬们
+[C] 我们有请X为我们致新年贺词。
 
 >某个大佬致辞
 
-*2.喜气洋洋节目过场词*
+*小提琴串词*
 
-[A]下面是一组高端大气上档次，低调奢华有内涵，奔放洋气有深度，简约时尚国际范，狂拽帅气吊炸天的歌曲串烧
+[A] 那么我们感谢X的精彩致辞，致辞过后呢，让我们跟随着跃动的音符，来欣赏小提琴表演。
+
+[B] 那么来有请ODI team darren.cui 带来的精彩表演
+
+*喜气洋洋节目过场词*
+
+[A]下面我们来欣赏一组高端大气上档次，低调奢华有内涵，奔放洋气有深度，简约时尚国际范，狂拽帅气吊炸天的歌曲串烧
 
 [B]有请Endeca team的帅小伙们闪亮登场
 
