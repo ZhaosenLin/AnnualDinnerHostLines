@@ -63,6 +63,7 @@ Frank Xionag, Cathy Yu, Helena Cai, Carrei Huang, Chupa Chu, Arthur Ning, Joe Su
 >喜气洋洋节目
 
 *游戏一 七拼八凑*
+
 [C]下面到了我们第一个游戏环节 游戏规则如下
 
 请参与游戏的每桌选取一个代表，三桌为一组，每次两组进行比赛，在规定时间内收集到我们列出的物品，每个物品的分数不同，最后我们选择分数最高的一组获胜。
@@ -86,6 +87,7 @@ Frank Xionag, Cathy Yu, Helena Cai, Carrei Huang, Chupa Chu, Arthur Ning, Joe Su
 |锤子手机|5|
 
 *游戏二 挤气球*
+
 [A]好，下面又到了我们的第二个游戏环节 挤气球
 
 [B]我们的游戏规则如下很简单啦 我们会给每组固定数量的气球  由观众自愿报名自愿选择给定的一种方式挤破气球 每两人一组 每轮3组 一共两轮游戏
