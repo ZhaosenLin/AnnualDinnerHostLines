@@ -98,7 +98,7 @@ Frank Xionag, Cathy Yu, Helena Cai, Carrei Huang, Chupa Chu, Arthur Ning, Joe Su
 [B]请看我们的计分规则
 
 |性别组合|背对背|面对面|背对面|
-|--|--|--|--|
+|---|---|---|---|
 |同性别|0|-2s|-5s|
 |异性别|-2s|-5s|-8s|
 
