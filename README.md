@@ -2,8 +2,8 @@
 ##主持人
 A.Victoria
 B.Johnson
-C.Roy
-D.Jingjing
+C.Jingjing
+D.Roy
 ##节目单
 | Team        | Manager           | Conrdinator  |Program    |Time span|
 | ------------- |:-------------:| -----:| -----:| -----:|
@@ -19,7 +19,7 @@ D.Jingjing
 ##台词
 我们的迎新会将在1分钟后开始；请把我们的手机调成震动或静音状态，按指定位置坐好；
 
-*1四人开场词*
+###四人开场词
 
 [A] 歌声袅袅辞旧岁
 
@@ -42,27 +42,45 @@ D.Jingjing
 [ABCD] 我宣布2015年甲骨文新年联欢晚会，现在开始
 
 [A] 出席我们今天晚会的是我们甲骨文公司的全体同仁,同时非常荣幸,我们也邀请了领导和嘉宾:他们是:
-Frank Xionag, Cathy Yu, Helena Cai, Carrei Huang, Chupa Chu, Arthur Ning, Joe Sun, Thomas Yu
+Frank Xiong, Cathy Yu, Helena Cai, Carrei Huang, Chupa Chu, Arthur Ning, Joe Sun, Thomas Yu
 
-[C] 我们有请X为我们致新年贺词。
+[C] 由于Frank xiong 其他原因无法来到晚会现场，所以他得意准备了一份新年祝福送给大家，请看大屏幕。
+
+###编程大赛颁奖
+
+
 
 >某个大佬致辞
 
-*小提琴串词*
+###小提琴串词
 
 [A] 那么我们感谢X的精彩致辞，致辞过后呢，让我们跟随着跃动的音符，来欣赏小提琴表演。
 
-[B] 那么来有请ODI team darren.cui 带来的精彩表演
+[B] 那么来有请张宇带来的精彩表演
 
-*喜气洋洋节目过场词*
+###喜气洋洋节目过场词
 
 [B]下面我们来欣赏一组高端大气上档次，低调奢华有内涵，奔放洋气有深度，简约时尚国际范，狂拽帅气吊炸天的歌曲串烧
 
 [A]有请Endeca team的帅小伙们闪亮登场
 
->喜气洋洋节目
 
-*游戏一 七拼八凑*
+
+###甄嬛传小品
+
+[A] 刚才的节目表演的真真是极好的，甚是讨得本宫欢心
+
+[B] 呦，你怎么瞬间甄嬛附体啦
+
+[A] 我这不算什么，下面得一组表演才是把甄嬛传演的真真得好呢
+
+[B] 那快请她们出来吧
+
+[A] 对，小李子，快扶本宫回去
+
+[B] 嗻
+
+###游戏一 七拼八凑
 
 [C]下面到了我们第一个游戏环节 游戏规则如下
 
@@ -86,7 +104,7 @@ Frank Xionag, Cathy Yu, Helena Cai, Carrei Huang, Chupa Chu, Arthur Ning, Joe Su
 |白头发1根|5|
 |锤子手机|5|
 
-*游戏二 挤气球*
+###游戏二 挤气球
 
 [A]好，下面又到了我们的第二个游戏环节 挤气球
 
@@ -104,9 +122,9 @@ Frank Xionag, Cathy Yu, Helena Cai, Carrei Huang, Chupa Chu, Arthur Ning, Joe Su
 
 [A] 在这个分秒必争的游戏里，每一秒都是非常关键的，所有大家组队的时候一定要想清楚队友和姿势啊，现在开始组队开始~
 
-[B] 租好队的同事请赶快到台前来，我们名额数量有限哦。
+[B] 组好队的同事请赶快到台前来，我们名额数量有限哦。
 
-*租男友*
+###租男友
 
 [C]XX，我想租点东西你知道去哪里嘛
 
@@ -122,7 +140,7 @@ Frank Xionag, Cathy Yu, Helena Cai, Carrei Huang, Chupa Chu, Arthur Ning, Joe Su
 
 >租男友
 
-*1.魔术先生过场词*
+###魔术先生过场词
 
 [A] 你相信吗我会变魔术
 
@@ -146,9 +164,8 @@ Frank Xionag, Cathy Yu, Helena Cai, Carrei Huang, Chupa Chu, Arthur Ning, Joe Su
 
 [A]好的，下面请听油XX带来的歌曲歌曲魔术先生。
 
->魔术先生
 
-*2.太极表演过场词*
+###太极表演过场词
 
 [D]太极 继承了古老文明的优秀的特质，开、合、发：以柔克刚，以静制动，无形似有形。
 
@@ -162,18 +179,15 @@ Frank Xionag, Cathy Yu, Helena Cai, Carrei Huang, Chupa Chu, Arthur Ning, Joe Su
 
 [C]下面请欣赏Joy.liu带来的太极表演
 
->太极表演
 
 [A]这一系列动作，连贯而有神韵，真是让我们大开眼界，没想到Oracle有才华的人还真多呀!
 
 
-*小苹果*
+###小苹果
 
 [A]曾经，三个苹果改变了这个世界，第一个夏娃的苹果，它赋予了人类灵魂；第二个牛顿的苹果，它把人类的科技文明提升到了一个新的高度；第三个是乔布斯的苹果，它颠覆了现代人的生活方式。
 
 [B]如今，一个来自东方的“苹果”也在改变着世界，它唱响乐坛，它让无数人争相模仿，下面就一起让我们来欣赏今年的流行神曲表演《小苹果》
-
->小苹果表演
 
 
 ##结束词
