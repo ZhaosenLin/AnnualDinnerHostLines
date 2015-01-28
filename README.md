@@ -43,7 +43,7 @@ D.Roy
 [ABCD] 我宣布2015年甲骨文新年联欢晚会，现在开始
 
 [A] 出席我们今天晚会的是我们甲骨文公司的全体同仁,同时非常荣幸,我们也邀请了领导和嘉宾:他们是:
-Frank Xiong, Cathy Yu, Helena Cai, Carrei Huang, Chupa Chu, Arthur Ning, Joe Sun, Thomas Yu
+1.　 Jared, 2. Bing Said  3, Thomas, 4 Arthur, 5Joe 6 Helena 7 Carrie 8 Chupa
 
 [C] 由于Frank xiong 其他原因无法来到晚会现场，所以他得意准备了一份新年祝福送给大家，请看大屏幕。
 
