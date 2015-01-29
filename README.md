@@ -7,7 +7,7 @@ D.Roy
 ##节目单
 | Team        | Manager           | Conrdinator  |Program    |Time span|
 | ------------- |:-------------:| -----:| -----:| -----:|
-|ATS |	ben.xu@oracle.com |yue.huang	|入场节目，穿戏服（类似）在观众身边一边唱一边进，不需要节目介绍|4|
+|ATS |	ben.xu@oracle.com |yue.huang	|入场节目|4|
 | ODI | james.fu@oracle.com      |    darren.cui |小 提 琴/选定|3|
 | EID Integrator      | joe.sun@oracle.com | hao.zhao |歌 曲 串烧/喜气洋洋过羊年|8-10|
 |CCM|terry.li@oracle.com|pheobe.zhou&sherry|小品 甄嬛传| 20|
